@@ -1,0 +1,91 @@
+{
+    "videos": [
+        "3gp",
+        "mp4",
+        "m4v",
+        "mkv",
+        "webm",
+        "mov",
+        "avi",
+        "wmv",
+        "mpg",
+        "flv"
+    ],
+    "pictures": [
+        "dwg",
+        "xcf",
+        "jpg",
+        "jfif",
+        "jpx",
+        "png",
+        "gif",
+        "webp",
+        "cr2",
+        "tif",
+        "bmp",
+        "jxr",
+        "psd",
+        "ico",
+        "heic"
+    ],
+    "compress": [
+        "br",
+        "rpm",
+        "dcm",
+        "epub",
+        "zip",
+        "tar",
+        "rar",
+        "gz",
+        "bz2",
+        "7z",
+        "xz",
+        "exe",
+        "swf",
+        "rtf",
+        "eot",
+        "ps",
+        "sqlite",
+        "nes",
+        "crx",
+        "cab",
+        "deb",
+        "ar",
+        "Z",
+        "lzo",
+        "lz",
+        "lz4"
+    ],
+    "fonts": [
+        "woff",
+        "woff2",
+        "ttf",
+        "otf"
+    ],
+    "applications": [
+        "wasm"
+    ],
+    "audios": [
+        "aac",
+        "mid",
+        "mp3",
+        "m4a",
+        "ogg",
+        "flac",
+        "wav",
+        "amr",
+        "aiff"
+    ],
+    "docs": [
+        "pdf",
+        "doc",
+        "docx"
+    ],
+    "data": [
+        "txt",
+        "json",
+        "yml",
+        "yaml",
+        "csv"
+    ]
+}
