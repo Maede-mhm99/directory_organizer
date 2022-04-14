@@ -3,7 +3,7 @@ organize different types of files in a directory with python
 
 ## How to run
 
-first , in main repo directory , run the following command to add `src` path to PYTHONPATH :
+first , in main repo directory , run the following command to add `src` path to `PYTHONPATH` :
 ```
     export PYTHONPATH = ${PWD}  
 ```
